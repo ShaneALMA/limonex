@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Personal<br>(4 Picarones)",
+    "price": "S/. 2.00",
+    "img": "background-image:url(Assets/Images/picarones-personal.jpg)"
+  },
+  {
+    "name": "Plus (4 Picarones + Cuajada)",
+    "price": "S/. 3.00",
+    "img": "background-image:url(Assets/Images/picarones-plus.jpg)"
+  },
+  {
+    "name": "Familiar<br>(8 Picarones + Cuajada)",
+    "price": "S/. 5.00",
+    "img": "background-image:url(Assets/Images/picarones-familiar.jpg)"
+  }
+]

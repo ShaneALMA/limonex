@@ -1,0 +1,7 @@
+{
+  "name": "Maca con Leche",
+  "price": "S/. 4.00",
+  "content": [ "Maca","Leche" ],
+  "properties": ["★ Ayuda a mitigar la fatiga, estrés y ansiedad.", "★ Alivia el estreñimiento.", "★ Aporta proteínas, calcio y vitaminas."],
+  "img": "background-image:url(Assets/Images/orange-juice.jpg)"
+}

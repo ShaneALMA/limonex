@@ -1,0 +1,80 @@
+.list-body {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  padding: 5px;
+  padding-bottom: 30px;
+ /*
+  font-family: Raleway, sans-serif;*/
+}
+
+.list-body .item {
+  background-color: #fff;
+  padding: 10px;
+  box-shadow: 2px 2px 6px rgba(0,0,0,.2);
+  position: relative;
+  margin-top: 10px;
+}
+
+.list-body .item .img {
+  height: 150px;
+  background-color: #ddd;
+  margin-bottom: 5px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.list-body .item label {
+  display: block;
+  font-size: 20px;
+}
+.list-body .item label:nth-child(2) {
+  font-size: 22px;
+}
+.list-body .item label:nth-child(3) {
+  color: #fff;
+  background-color: #8F00AB;
+  display: inline-block;
+  padding: 2px 8px;
+  float: right;
+  border-radius: 30px;
+  margin-top: 2px;
+  bottom: 0;
+}
+.list-body .item span {
+  position: absolute;
+  top: -15px;
+  left: 45%;
+  width: 30px;
+  height: 30px;
+  background-image: url(../Assets/Icons/clip.png);
+  background-size: 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  transform: rotate(20deg);
+}
+
+/*
+.list-body .add-item {
+  background-image: linear-gradient(45deg,#01553F,#0ACFA0);
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 2px 2px 4px rgba(0,0,0,.2);
+  border: 3px solid #fff;
+}
+.list-body .add-item .img {
+  background-color: #eee;
+  background-image: url(../Assets/Icons/add_item.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100px;
+  height: 150px;
+  border-radius: 10px;
+}
+.list-body .add-item label {
+  margin-top: 5px;
+  display: block;
+  font-size: 20px;
+}
+*/
+

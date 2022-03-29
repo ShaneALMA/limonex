@@ -1,0 +1,7 @@
+{
+  "name": "Gástrico",
+  "price": "S/. 3.00",
+  "content": ["Sábila", "Tuna", "Sangre de Grado", "Aceite de Copaiba"],
+  "properties": ["★ Trata la Gastritis.", "★ Cicatriza naturalmente úlceras e infecciones internas.", "★ Desinflamante interno."],
+  "img": "background-image:url(Assets/Images/apple-juice.jpg)"
+}

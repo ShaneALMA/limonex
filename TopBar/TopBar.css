@@ -1,0 +1,136 @@
+.topbar {/*
+  padding: 10px;
+  background-image: linear-gradient(45deg,#01553F,#0ACFA0);
+  box-shadow: 0 4px 4px rgba(0,0,0,.2);
+  border-top: 3px solid #fff;
+  border-bottom: 3px solid #fff;*/
+  padding: 10px;
+  position: relative;
+  background-color: #eee;
+}
+
+.topbar h1 {
+  font-weight: 300;
+  padding: 5px 10px;
+  width: max-content;
+  box-shadow: 2px 2px 6px rgba(0,0,0,.2);
+  font-size: 30px;
+  margin: 0 auto;
+  /*transform: rotate(-5deg);*/
+  background-color: #fff;
+}
+
+.topbar .title-clip {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 20px;
+  height: 20px;
+  background-image: url(../Assets/Icons/clip.png);
+  background-size: 20px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.topbar h2 {
+  font-weight: 300;
+  position: absolute;
+  top: -5px;
+  right: 10px;
+  background-color: #0076FF;
+  color: #fff;
+  padding: 5px 10px;
+  /*transform: rotate(5deg);*/
+  box-shadow: 2px 2px 6px rgba(0,0,0,.2);
+}
+.check-anim-more {
+  animation: check-anim-more 2s linear infinite;
+}
+@keyframes check-anim-more {
+  0% {
+    transform: scale(1);
+  }
+  30% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(1.1);
+  }
+  50% {
+    transform: scale(1);
+  }
+  60% {
+    transform: scale(1.1);
+  }
+  70% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.topbar .more-clip {
+  position: absolute;
+  top: 5px;
+  right: 30px;
+  transform: translateX(-50%);
+  width: 20px;
+  height: 20px;
+  background-image: url(../Assets/Icons/clip.png);
+  background-size: 20px;
+  background-position: center;
+  background-repeat: no-repeat;
+  pointer-events: none;
+}
+.topbar h2:nth-child(1) {
+  font-weight: 300;
+  position: absolute;
+  top: -5px;
+  left: 10px;
+  width: max-content;
+  background-color: #00778E;
+  color: #fff;
+  padding: 5px 10px;
+  /*transform: rotate(5deg);*/
+  box-shadow: 2px 2px 6px rgba(0,0,0,.2);
+}
+.check-anim-info {
+  animation: check-anim-info 2s linear infinite;
+}
+@keyframes check-anim-info {
+  0% {
+    transform: scale(1) rotate(5deg);
+  }
+  30% {
+    transform: scale(1) rotate(5deg);
+  }
+  40% {
+    transform: scale(1.1) rotate(5deg);
+  }
+  50% {
+    transform: scale(1) rotate(5deg);
+  }
+  60% {
+    transform: scale(1.1) rotate(5deg);
+  }
+  70% {
+    transform: scale(1) rotate(5deg);
+  }
+  100% {
+    transform: scale(1) rotate(5deg);
+  }
+}
+.topbar .info-clip {
+  position: absolute;
+  top: 5px;
+  left: 50px;
+  transform: translateX(-50%);
+  width: 20px;
+  height: 20px;
+  background-image: url(../Assets/Icons/clip.png);
+  background-size: 20px;
+  background-position: center;
+  background-repeat: no-repeat;
+  pointer-events: none;
+}

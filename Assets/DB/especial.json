@@ -1,0 +1,7 @@
+{
+  "name": "Emoliente Especial",
+  "price": "S/. 5.00",
+  "content": [ "Maca", "Polen", "Chía", "Miel de Abejas", "Algarrobina" ],
+  "properties": ["★ Nutre y fortalece el cuerpo.", "★ Combate la Anemia.", "★ Aporta energía para realizar las tareas diarias y practicar deporte."],
+  "img": "background-image:url(Assets/Images/pineapple-juice.jpg)"
+}

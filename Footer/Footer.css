@@ -1,0 +1,27 @@
+.footer {
+  background-color: #222;
+  padding: 10px;
+  color: #eee;
+  text-align: center;
+}
+
+.footer h3 {
+  font-weight: 300;
+  margin: 0;
+  font-size: 22px;
+}
+.footer p {
+  margin: 0;
+  font-size: 20px;
+}
+.footer .social {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.footer img {
+  width: 50px;
+}
+.footer img:nth-child(1) {
+  margin-right: 20px;
+}

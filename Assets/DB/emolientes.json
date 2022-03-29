@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Clásico",
+    "price": "S/. 2.00",
+    "img": "background-image:url(Assets/Images/orange-juice.jpg)",
+    "get": "clasico"
+  },
+  {
+    "name": "Especial",
+    "price": "S/. 5.00",
+    "img": "background-image:url(Assets/Images/mango-juice.jpg)",
+    "get": "especial"
+  },
+  {
+    "name": "Gastritis",
+    "price": "S/. 3.00",
+    "img": "background-image:url(Assets/Images/apple-juice.jpg)",
+    "get": "gastritis"
+  },
+  {
+    "name": "Próstata",
+    "price": "S/. 4.00",
+    "img": "background-image:url(Assets/Images/strawberry-juice.jpg)",
+    "get": "prostata"
+  },
+  {
+    "name": "Tos / Antigripal",
+    "price": "S/. 4.00",
+    "img": "background-image:url(Assets/Images/green-juice.jpg)",
+    "get": "tos"
+  },
+  {
+    "name": "Diabetes",
+    "price": "S/. 4.00",
+    "img": "background-image:url(Assets/Images/mango-juice.jpg)",
+    "get": "diabetes"
+  },
+  {
+    "name": "Colesterol / Hígado Graso",
+    "price": "S/. 4.00",
+    "img": "background-image:url(Assets/Images/orange-juice.jpg)",
+    "get": "colesterol"
+  },
+  {
+    "name": "Huesos / Articulaciones",
+    "price": "S/. 4.00",
+    "img": "background-image:url(Assets/Images/pineapple-juice.jpg)",
+    "get": "huesos"
+  },
+  {
+    "name": "Adelgazante",
+    "price": "S/. 4.00",
+    "img": "background-image:url(Assets/Images/apple-juice.jpg)",
+    "get": "adelgazante"
+  },
+  {
+    "name": "Relajante",
+    "price": "S/. 3.00",
+    "img": "background-image:url(Assets/Images/strawberry-juice.jpg)",
+    "get": "relajante"
+  },
+  {
+    "name": "Laxante",
+    "price": "S/. 4.00",
+    "img": "background-image:url(Assets/Images/green-juice.jpg)",
+    "get": "laxante"
+  },
+  {
+    "name": "Maca con Leche",
+    "price": "S/. 4.00",
+    "img": "background-image:url(Assets/Images/pineapple-juice.jpg)",
+    "get": "macaleche"
+  }
+]

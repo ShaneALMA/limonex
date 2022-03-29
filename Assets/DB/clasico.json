@@ -1,0 +1,14 @@
+{
+  "name": "Emoliente Clásico",
+  "price": "S/. 2.00",
+  "content": [
+    "Linaza","Cebada",
+    "Uña de Gato","Boldo","Chancapiedra","Alfalfa (opcional)","Amargo / Hercampuri (opcional)","Dulce y Limón (al gusto)"
+  ],
+  "properties": [
+    "✓ Desinflama los riñones",
+    "✓ Estimula el adelgazamiento",
+    "✓ Relaja el cuerpo"
+  ],
+  "img": "background-image:url(Assets/Images/orange-juice.jpg)"
+}

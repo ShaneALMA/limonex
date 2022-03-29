@@ -1,0 +1,7 @@
+{
+  "name": "AntiDiabético",
+  "price": "S/. 4.00",
+  "content": [ "Moringa","Sábila" ],
+  "properties": ["★ Mejora y reduce los niveles de glucosa en la sangre.", "★ Controla los picos de azúcar que tienen los diabéticos a lo largo del día.", "★ Aporta saciedad al paciente y ayuda a controlar la absorción del azúcar en la dieta."],
+  "img": "background-image:url(Assets/Images/orange-juice.jpg)"
+}

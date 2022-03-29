@@ -1,0 +1,7 @@
+{
+  "name": "Relajante",
+  "price": "S/. 3.00",
+  "content": [ "Valeriana","Boldo" ],
+  "properties": ["★ Alivia el estrés y la tensión.", "★ Relaja el cerebro y el cuerpo.", "★ Promueve el buen descanso."],
+  "img": "background-image:url(Assets/Images/green-juice.jpg)"
+}

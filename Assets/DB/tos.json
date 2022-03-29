@@ -1,0 +1,7 @@
+{
+  "name": "Tos / Antigripal",
+  "price": "S/. 4.00",
+  "content": [ "Polen","Propóleo","Miel de Abejas" ],
+  "properties": ["★ Combate la tos y síntomas del resfrío.", "★ Alivia las cuerdas vocales inflamadas.", "★ Antialérgico."],
+  "img": "background-image:url(Assets/Images/apple-juice.jpg)"
+}

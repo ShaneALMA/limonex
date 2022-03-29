@@ -1,0 +1,7 @@
+{
+  "name": "Laxante",
+  "price": "S/. 4.00",
+  "content": ["Frutilax","Moringa"],
+  "properties": ["★ Regula el tránsito intestinal.", "★ Combate el estreñimiento crónico."],
+  "img": "background-image:url(Assets/Images/pineapple-juice.jpg)"
+}

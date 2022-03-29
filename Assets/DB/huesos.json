@@ -1,0 +1,7 @@
+{
+  "name": "Huesos y Articulaciones",
+  "price": "S/. 4.00",
+  "content": ["Maca Negra", "Colágeno"],
+  "properties": ["★ Alivia el dolor de las articulaciones.", "★ Previene la perdida osea.", "★ Une los tejidos del cuerpo (músculos, tendones, ligamentos, piel, huesos, cartílagos)."],
+  "img": "background-image:url(Assets/Images/strawberry-juice.jpg)"
+}

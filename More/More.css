@@ -1,0 +1,65 @@
+.more {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 5;
+  padding: 5px;
+  background-color: #eee;
+  border-radius: 10px;
+  box-shadow: 3px 3px 4px rgba(0,0,0,.2);
+}
+.more span {
+  width: 30px;
+  height: 30px;
+  display: block;
+  position: fixed;
+  background-image: url(../Assets/Icons/close.png);
+  background-repeat: no-repeat;
+  background-size: 30px;
+  left: 15px;
+  top: 15px;
+}
+.more label {
+  display: block;
+  padding: 5px 10px;
+  font-size: 25px;
+  border-radius: 10px;
+  color: #000;
+  width: 150px;
+  background-image: url(../Assets/Icons/donut.png);
+  background-repeat: no-repeat;
+  background-size: 30px;
+  background-position: 95% center;
+}
+.more label.check-more-label {
+  animation: check-more-label 2s linear infinite;
+}
+@keyframes check-more-label {
+  0% {
+    transform: scale(1);
+  }
+  30% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(1.05);
+  }
+  50% {
+    transform: scale(1);
+  }
+  60% {
+    transform: scale(1.05);
+  }
+  70% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.more label:nth-child(1) {
+  background-image: url(../Assets/Icons/beer.png);
+}
+.more label.sel {
+  background-color: #ccc;
+}

@@ -1,0 +1,120 @@
+.details {
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  z-index: 3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.details .cont {
+  position: relative;
+  background-color: #eee;
+  width: 95%;
+  height: 95%;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px rgba(0,0,0,.2);
+  overflow-y: scroll;
+}
+
+.details .cont h2 {
+  background-color: #fff;
+  box-shadow: 2px 2px 4px rgba(0,0,0,.2);
+  padding: 5px 10px;
+  margin: 0 auto;
+  font-weight: 300;
+  font-size: 30px;
+  width: max-content;
+  margin-top: -25px;
+}
+
+.details .cont .img {
+  height: 300px;
+  background-color: #ccc;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.details .cont .content,
+.details .cont .benefits {
+  margin-top: 10px;
+  background-color: #fff;
+  box-shadow: 2px 2px 4px rgba(0,0,0,.2);
+  padding: 10px;
+  padding-bottom: 5px;
+  
+}
+
+.details .cont .content h3,
+.details .cont .benefits h3{
+  margin: 0;
+  font-weight: 300;
+  padding: 2px 7px;
+  background-color: #096AFF;
+  color: #fff;
+  width: max-content;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+
+.details .cont .content label {
+  display: inline-block;
+  margin: 0 0 5px 0;
+  border: 2px solid;
+  padding: 2px 5px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.details .cont .content .comp {
+  color: #666;
+}
+
+.details .cont .benefits h3 {
+  background-color: #009B31;
+}
+
+.details .cont .benefits label {
+  display: block;
+  font-size: 20px;
+  border-bottom: 2px solid;
+}
+
+.details .cont .bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+}
+.details .cont .bottom .price,
+.details .cont .bottom .close {
+  padding: 5px 10px;
+  background-color: #fff;
+  font-size: 25px;
+  margin: 0;
+  font-weight: 300;
+  box-shadow: 2px 2px 4px rgba(0,0,0,.2);
+}
+
+.details .cont .bottom .close {
+  background-color: #F60075;
+  color: #fff;
+  padding: 0 10px;
+  padding-bottom: 5px;
+}
+
+.details span {
+  position: absolute;
+  top: -5px;
+  left: 20%;
+  transform: rotate(20deg);
+  width: 40px;
+  height: 40px;
+  background-image: url(../Assets/Icons/clip.png);
+  background-size: 40px;
+  background-position: center;
+  background-repeat: no-repeat;
+}

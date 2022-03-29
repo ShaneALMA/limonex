@@ -1,0 +1,7 @@
+{
+  "name": "Colesterol / Hígado Graso",
+  "price": "S/. 4.00",
+  "content": ["Alcachofa", "Cardo Mariano"],
+  "properties": ["★ Evita la síntesis de colesterol.", "★ Aumenta la excreción biliar de colesterol y su transformación en ácidos biliares.", "★ Mejora el funcionamiento del hígado.", "★ Favorece la eliminación de agua y sustancias de desecho."],
+  "img": "background-image:url(Assets/Images/mango-juice.jpg)"
+}

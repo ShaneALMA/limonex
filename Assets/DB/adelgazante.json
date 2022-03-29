@@ -1,0 +1,7 @@
+{
+  "name": "Adelgazante",
+  "price": "S/. 4.00",
+  "content": ["Té Verde", "Spirulina"],
+  "properties": ["★ Favorece la pérdida de peso.", "★ Aumenta la pérdida de grasa en personas con síndrome metabólico.", "★ Retarda el envejecimiento celular"],
+  "img": "background-image:url(Assets/Images/strawberry-juice.jpg)"
+}
